@@ -1,4 +1,4 @@
-# Projeto de 15 APPs em 1 mês
+# Projeto de 15 APPs Web em 1 mês
 
 Projeto iniciante para solidificar conhecimentos(ainda que básicos rsrsr) em:
 * **HTML**

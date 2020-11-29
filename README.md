@@ -9,7 +9,7 @@ Serão 15 projetos em um mês(sendo pretendido ser feitos no mês de dezembro to
 Todos esses projetos estou fazendo pelo canal da FreeCodeCamp, em JS, que se encontra
 [neste link](https://www.youtube.com/watch?v=3PHXvlpOkf4).
 
-###### Aproveitando também para fazer o meu **primeiro** *README* no GitHub e em MarkDown(pra quem, um mês atrás não fazia ideia de nada disso até que estamos indo no caminho certo kkkkkk)
+###### Aproveitando também para fazer o meu **primeiro** *README* no GitHub e em MarkDown(pra quem, um mês atrás, não fazia ideia de nada disso até que estamos indo no caminho certo kkkkkk)
 
 Projetos finalizados:
 

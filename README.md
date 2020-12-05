@@ -1,4 +1,4 @@
-# Projeto de 15 APPs em 1 mês
+# Projeto de 15 APPs Web em 1 mês
 
 Projeto iniciante para solidificar conhecimentos(ainda que básicos rsrsr) em:
 * **HTML**
@@ -9,7 +9,7 @@ Serão 15 projetos em um mês(sendo pretendido ser feitos no mês de dezembro to
 Todos esses projetos estou fazendo pelo canal da FreeCodeCamp, em JS, que se encontra
 [neste link](https://www.youtube.com/watch?v=3PHXvlpOkf4).
 
-###### Aproveitando também para fazer o meu **primeiro** *README* no GitHub e em MarkDown
+###### Aproveitando também para fazer o meu **primeiro** *README* no GitHub e em MarkDown(pra quem, um mês atrás, não fazia ideia de nada disso até que estamos indo no caminho certo kkkkkk)
 
 Projetos finalizados:
 

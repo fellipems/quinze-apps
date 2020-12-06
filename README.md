@@ -13,8 +13,8 @@ Todos esses projetos estou fazendo pelo canal da FreeCodeCamp, em JS, que se enc
 
 Projetos finalizados:
 
-1. -[x] Color Flipper - Troca minha cor!
-2. -[x] Counter - Contador positivo e negativo
+1. -[x] Color Flipper - Troca minha cor!  (finished 28/11/2020)
+2. -[x] Counter - Contador positivo e negativo  (finished 05/12/2020)
 3.
 4.
 5.
@@ -39,7 +39,7 @@ criamos um array de 0 a 9 e de A até F. Depois, criamos uma função de Math.ra
 acordo com o nosso array hex e iterar em um laço for no nosso array hex e o hexColor(que é pra gerar o laço em cima
 do nosso padrão da variável que começa com uma cerquilha '#');
 
-2. Projeto rápido de um contador tendo a função de crescente, decrescente e zerar. Número positivos ficam verde, negativo ficam em vermelho, zerou fica preto.
-Projeto foi bom para saber alterar a cor do número de acordo com tipo numérico. Também uma noção de como fazer um event listener do click junto com o event object, fazer um loop nos botões para saber qual clicamos e fazer a lógica necessária.
+2. Projeto rápido de um contador tendo a função de crescente, decrescente e zerar. Números positivos ficam verde, negativos ficam em vermelho e zerou fica preto.
+Projeto foi bom para saber alterar a cor do número de acordo com tipo numérico( + ou - ). Também uma noção de como fazer um event listener do click junto com o event object, fazer um loop nos botões para saber qual clicamos e fazer a lógica necessária eo uso do *.contains*.
 
 
